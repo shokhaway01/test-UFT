@@ -1,0 +1,23 @@
+header {
+    /* padding: 0 60px; */
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px 200px;
+    background: transparent;
+}
+
+.header-value {
+    font-size: 12px;
+    font-weight: 600;
+    color: #D7FFC2; 
+    font-family: Roboto, system-ui, -apple-system, "Segoe UI", "Helvetica Neue", Arial;
+    letter-spacing: 1px;
+}
+
+.header-login {
+    font-size: 18px;
+    color: #ffffff;
+    font-weight: 500;
+    font-family: Roboto, system-ui, -apple-system, "Segoe UI", "Helvetica Neue", Arial;
+}
