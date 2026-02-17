@@ -26,7 +26,7 @@ const aboutData = [
 
 const AboutTop = () => {
   return (
-    <div className='w-full h-[100vh] flex flex-col items-center justify-start gap-10  z-2'>
+    <div className='w-full h-[100vh] flex flex-col items-center justify-start gap-10  z-10'>
         <h1 className='text-[46px] text-[#004449]'>How Going ™ Works </h1>
 
         <div className="flex items-end gap-12">
