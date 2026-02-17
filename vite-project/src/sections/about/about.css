@@ -1,0 +1,6 @@
+.about-section {
+    background-image: url('../../assets/sicilia.png'); 
+    background-size: cover;
+    background-position: center;
+    padding: 80px 15px 30px 15px;
+}
