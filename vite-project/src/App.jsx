@@ -8,6 +8,7 @@ import Greeting from './sections/greeting/Greeting'
 import RealDeals from "./sections/realDeals/realDeals"
 import FeedBack from './sections/feedBack/FeedBack';
 import FlightAlerts from './sections/flightAlerts/FlightAlerts';
+import Footer from './sections/footer/Footer';
 
 function App() {
 
@@ -18,6 +19,7 @@ function App() {
      <RealDeals />
      <FeedBack />
      <FlightAlerts />
+     <Footer />
     </>
   )
 }
