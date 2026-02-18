@@ -6,6 +6,7 @@ import "slick-carousel/slick/slick-theme.css";
 import About from './sections/about/About'
 import Greeting from './sections/greeting/Greeting'
 import RealDeals from "./sections/realDeals/realDeals"
+import FeedBack from './sections/feedBack/FeedBack';
 
 function App() {
 
@@ -14,6 +15,7 @@ function App() {
      <Greeting />
      <About />
      <RealDeals />
+     <FeedBack />
     </>
   )
 }
