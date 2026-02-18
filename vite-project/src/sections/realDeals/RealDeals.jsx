@@ -81,7 +81,7 @@ const RealDeals = () => {
     return (
         <div className="h-[100vh] flex flex-col justify-center gap-8 bg-[#FFFEF0]" aria-label="Real Deals section">
             <div className="text-center mb-6">
-                <h2 className="text-3xl md:text-4xl font-semibold text-[#004449]">
+                <h2 className="text-3xl md:text-4xl font-semibold text-[#004449] overflow-hidden">
                     <span className="bg-[#D7FFC2] px-2">Real Deals</span>{' '}
                     <span className="ml-2">Members booked</span>
                 </h2>
