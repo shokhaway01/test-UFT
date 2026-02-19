@@ -5,7 +5,7 @@ import "slick-carousel/slick/slick-theme.css";
 
 import About from './sections/about/About'
 import Greeting from './sections/greeting/Greeting'
-import RealDeals from "./sections/realDeals/realDeals"
+import RealDeals from "./sections/realDeals/RealDeals"
 import FeedBack from './sections/feedBack/FeedBack';
 import FlightAlerts from './sections/flightAlerts/FlightAlerts';
 import Footer from './sections/footer/Footer';
